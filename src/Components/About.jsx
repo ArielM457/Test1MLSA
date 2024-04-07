@@ -43,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
- "The life goals and the possibilities that my environment offers me drive me every day to create innovations that lead technology to even greater advancement. My continuous learning of programming, databases and operating systems are my main tools to have the solid foundations to create new technologies based on those we already have. My daily work in projects shows the results that in turn take the advanced form that I will achieve Phrase that I live by for my work: Technology is the engine of innovation and has the power to change the world. - Tim Cooka";
+  "The life goals and the possibilities that my environment offers me drive me every day to create innovations that lead technology to even greater advancement. My continuous learning of programming, databases and operating systems are my main tools to have the solid foundations to create new technologies based on those we already have. My daily work in projects shows the results that in turn take the advanced form that I will achieve Phrase that I live by for my work: Technology is the engine of innovation and has the power to change the world. - Tim Cooka";
 
 const About = () => {
   return (
