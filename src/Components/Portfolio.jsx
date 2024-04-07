@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/img Microsoft.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Game of Life  🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My creation of the Game of Life, which is based on the creation of new lives based on the initial lives, designed in Java.",
+    url: "https://github.com/ArielM457/Proyecto_GameOfLife/tree/master",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Ecomerse - Buzzo ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The creation of an app for an electronic commerce for products that are friendly to the environment, being portable in ecological deliveries, seen by the buyer and consumer. Designed in neat beans, using java web implementing Html, css, Javascript, java and databases in mysql",
+    url: "https://github.com/ArielM457/e-comerse.git",
   },
   {
-    title: "My Resume Site",
+    title: "Initial ordering for chess pieces ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The creation of the order application for chess pieces, applying ordering algorithms and good practices designed in Java.",
+    url: "https://github.com/ArielM457/Ordering---Chess-Game.git",
   },
 ];
 
