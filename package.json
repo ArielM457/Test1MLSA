@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://ArielM457.github.io/Prueba1MLSA",
+  "homepage": "https://ArielM457.github.io/Test1MLSA",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://ArielM457.github.io/Prueba1MLSA'",
+    "build-gh": "parcel build --public-url 'https://ArielM457.github.io/Test1MLSA'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
